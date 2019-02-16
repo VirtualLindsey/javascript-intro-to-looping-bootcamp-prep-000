@@ -19,7 +19,7 @@ function whileLoop(n){
     console.log(n)
     n = n - 1
   }
-  console.log("done")
+  return "done"
 }
 
 function doWhileLoop(n){
